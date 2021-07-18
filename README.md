@@ -2,7 +2,7 @@
 
 I am still unsure about what I should write here 🤔...
 
-Anyways, gotta go back to lurging around on Github.
+Anyways, gotta go back to lurking around on Github.
 
 <!--
 Here are some ideas to get you started:
