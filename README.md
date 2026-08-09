@@ -15,14 +15,15 @@ Issues and discussions on the relevant repo work best. You can also find me on t
 
 #### Rules
 
-Ground rules for interacting with me. Published once so threads can link them instead of relitigating them.
+Ground rules for interacting with me:
 
-**1. I write very directly.** Short and blunt answers are complete answers and I do not mean them to be degrading in any way. A link is an answer. Terseness and bluntness carry no hidden mood. If I were actually annoyed you would not have to guess.
+**1. I write very directly.** Short and blunt answers are complete answers and I do not mean them to be degrading in any way. A link is an answer. If I were actually annoyed you would not have to guess.
 
-**2. My time runs on evidence.** What buys it: exact reproduction steps, full configs, complete logs, the failing command, code references. What does not: urgency, volume, repetition, tone. Your urgency is real and it is yours. My queue sorts by evidence.
+**2. My time runs on clarity.**
+ - You want to report a bug? Exact reproduction steps, full configs, complete logs, the failing command, code references will get my attention.
+ - You want to ask a question or propose something? Do not explain what you want to do, but what you are trying to achieve and why you are trying to achieve it. Often times there are a lot of other ways of achieving something.
+ - Urgency, volume, repetition, the wrong tone; all of which will turn my attention away and move your inquiry to the end of the list.
 
-**3. Hostility buys latency.** A jab does not accelerate anything. It moves your thread to the back of the queue or out of it entirely. You get one note about tone, then I allocate my time elsewhere.
+**3. Closing is a triage state.** I close fast: intended behavior, missing repro, wrong venue. Closed issues stay readable, stay searchable and can be reopened the moment new data lands.
 
-**4. Closing is a triage state.** I close fast: intended behavior, missing repro, wrong venue. Closed issues stay readable, stay searchable and can be reopened the moment new data lands.
-
-None of this is personal. All of it is capacity.
+None of this is personal, **I am happy to assist**. All of it is capacity.
